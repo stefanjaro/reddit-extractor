@@ -1,2 +1,2 @@
 # reddit-extractor
-Extracting front page information from reddit.com using BeautifulSoup on a periodical basis
+Extracting front page information (titles, links, submitters, subreddits, etc.,) on a periodical basis from reddit.com using BeautifulSoup 
